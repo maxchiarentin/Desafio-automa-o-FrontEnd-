@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{6EFD5BE8-EBB1-4DDF-9F31-1EA6CB097296}">
+	<children>
+		<child name="_Login com usuário bloqueado e validar a mensagem de bloqueio exibida" key="{CDFD0A1A-B4D2-4324-94AE-0477CD63522C}" path="_Login com usuário bloqueado e validar a mensagem de bloqueio exibida\_Login com usuário bloqueado e validar a mensagem de bloqueio exibida.mds" />
+		<child name="Realizar uma compra completa com mais de um produto no carrinho" key="{AD2522DD-C308-4A10-B45F-9A023B8A0E16}" path="Realizar uma compra completa com mais de um produto no carrinho\Realizar uma compra completa com mais de um produto no carrinho.mds" />
+		<child name="Adicionar todos os produtos ao carrinho e validar o valor total da compra a ser pago" key="{7BAA0532-344E-4FC7-88CB-443CCFFEC634}" path="Adicionar todos os produtos ao carrinho e validar o valor total da compra a ser pago\Adicionar todos os produtos ao carrinho e validar o valor total da compra a ser pago.mds" />
+	</children>
+	<testItems key="{E617FB90-A695-41ED-A48E-851A1D0A4D24}">
+		<children>
+			<testItem key="{CDFD0A1A-B4D2-4324-94AE-0477CD63522C}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{AD2522DD-C308-4A10-B45F-9A023B8A0E16}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{7BAA0532-344E-4FC7-88CB-443CCFFEC634}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{6B4EB65D-973D-4044-98F0-A99111EB0ACB}" />
+	<analysis key="{3658A017-01A4-4952-A12C-002056CCED45}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
